@@ -46,7 +46,6 @@
 #### Q7. The mailing creation and manipulation features can be accessed through the tab:
 
 - [ ] Review.
-- [ ] View.
 - [ ] References.
 - [ ] Design.
 - [x] Correspondences.
